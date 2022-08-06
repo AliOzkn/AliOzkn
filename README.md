@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Patika.dev**
 
-- 🌱 I’m currently learning **Selenium, Rest Assured and Appium**
+- 🌱 I’m currently learning **Selenium, Rest Assured API and Appium**
 
 - 💬 Ask me about **UI and mobile test automation**
 
