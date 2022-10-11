@@ -7,7 +7,7 @@
   <p align="center">
   <h4> I'm Ali, Sofware Test Engineer from Turkey.  </h4>
   
-  - 🔬 I'm currently working with **Selenium, Postman and Rest Assured**
+  - 🔬 I'm currently working about **Web, Mobile and API Tests.**
   
   - 📫 How to reach me **alizkann@gmail.com**
   
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-<h3>Languages and Tools:</h3>
+<h3>Technologies and Tools:</h3>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width = "30" height ="30" align="left">
 <img src="https://www.svgrepo.com/show/217753/github.svg" alt="github" width="30" height="30" align="left">
