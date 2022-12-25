@@ -8,13 +8,7 @@
   <h4> I'm Ali, Sofware Test Engineer from Turkey.  </h4>
   
   - 🔬 I'm currently working about **Web, Mobile and API Tests.**
-  - The technologies I use while learning software testing processes are:<br />
-Java as programming language,<br />
-Selenium, TestNG, Cucumber for web testing,<br />
-Postman and Rest Assured for API testing,<br />
-Appium for mobile testing,<br />
-JMeter for performance testing,<br />
-Jenkins for CI/CD side.<br />
+
 
 
 <br />
